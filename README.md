@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋 I'm Deep</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif">
+<img align="right" alt="Coding" width="400" border-radius="10px" src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif">
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
