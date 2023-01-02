@@ -1,4 +1,4 @@
-
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif">
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
@@ -8,7 +8,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif">
+
 
 - 🔭 I’m currently working on 👉 **countless MERN projects**
 
