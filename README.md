@@ -7,7 +7,7 @@
 <h3 align="center" > • Energetic Full-Stack Developer with an Endless Supply of Caffeine 🍵</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" alt="Coding" width="350" height="240" src="https://cdn.dribbble.com/users/756147/screenshots/3332605/media/f50dc45256e5da8c4658234a86d435e8.gif">
+<img align="right" alt="Coding" width="330" height="240" src="https://cdn.dribbble.com/users/756147/screenshots/3332605/media/f50dc45256e5da8c4658234a86d435e8.gif">
 
 
 <h3 align="left">About me:</h3>
