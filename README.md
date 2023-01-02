@@ -1,13 +1,10 @@
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-<h1 align="center" style=" font-size: medium; color: #447ff7">Hi 👋 I'm Deep</h1>
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20Full-stack%20Developer%20With%Unlimited20%Energy; &font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=10&size=22" /></a>
-</p>
+
+<h3 align="center" >Hello, I'm Deep Dutta ✌️</h3>
+<h3 align="center" >Energetic Full-Stack Developer with an Endless Supply of Caffeine 🍵</h3>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif">
