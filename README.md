@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center"  alt="Coding" width="600" src="https://i.pinimg.com/originals/64/db/fb/64dbfb279110e5730b698a752532605b.gif">
+<img align="center" alt="Coding" width="600" src="https://cdnb.artstation.com/p/assets/images/images/024/252/817/original/ivan-boyko-clouds-morning.gif?1581813503">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
