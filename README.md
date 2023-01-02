@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center"  alt="Coding" width="600" src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif">
+<img align="center"  alt="Coding" width="600" src="https://i.pinimg.com/originals/64/db/fb/64dbfb279110e5730b698a752532605b.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on 👉 **countless MERN projects**
 
