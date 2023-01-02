@@ -4,6 +4,7 @@
 
 <h3 align="center" >Hello, I'm Deep Dutta ✌️</h3>
 <h3 align="center" >Energetic Full-Stack Developer with an Endless Supply of Caffeine 🍵</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
