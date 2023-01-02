@@ -4,9 +4,7 @@
 <br>
 <h1 align="center">Hi 👋 I'm Deep</h1>
 <h3 align="center">A passionate Full-Stack developer with unlimited energy ⚡</h3>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Deep+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+have+3%2B+years+of+experience+%F0%9F%93%88;In+building+backend+infrastructures+%E2%9A%99%EF%B8%8F" alt="Deep" width="650" height="55">
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif">
 
 - 🔭 I’m currently working on **MERN projects**
