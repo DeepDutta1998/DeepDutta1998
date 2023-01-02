@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
-<h3 align="center" ><img src="https://img.icons8.com/office/512/employee-card.png" alt="css3" width="40" height="40"/>Hello, I'm Deep Dutta ✌️</h3>
+<h3 align="center" ><img align="left" src="https://img.icons8.com/office/512/employee-card.png" alt="css3" width="20" height="20"/>Hello, I'm Deep Dutta ✌️</h3>
 <h3 align="center" >Energetic Full-Stack Developer with an Endless Supply of Caffeine 🍵</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
