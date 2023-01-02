@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="Coding" width="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/41cf7095746151.5e9ecde696490.gif">
+<img align="center" alt="Coding" width="800" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/41cf7095746151.5e9ecde696490.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
