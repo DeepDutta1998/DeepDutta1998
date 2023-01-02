@@ -1,10 +1,10 @@
 <p align="center">
-<img align="center"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif">
+<img align="center"  alt="Coding" width="600" src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
-<h3 align="center" ><img align="center" src="https://img.icons8.com/office/512/employee-card.png" alt="css3" width="20" height="20"/> • Hello, I'm Deep Dutta ✌️</h3>
-<h3 align="center" ><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="css3" width="20" height="20"/> • Energetic Full-Stack Developer with an Endless Supply of Caffeine 🍵</h3>
+<h3 align="center" > • Hello, I'm Deep Dutta ✌️</h3>
+<h3 align="center" > • Energetic Full-Stack Developer with an Endless Supply of Caffeine 🍵</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on 👉 **countless MERN projects**
 
-- 🌱 I’m currently learning 👉 **Full-Stack Development and Python*
+- 🌱 I’m currently learning 👉 **Full-Stack Development and Python**
 
 - 💬 Ask me about 👉 **Artificial intelligence**
 
