@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="Coding" width="600" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a5a3db7-fb07-4532-aa4c-93f5a5d5d651/d9y6rvp-08b4238f-9618-4491-b5eb-0c44316bd858.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNWEzZGI3LWZiMDctNDUzMi1hYTRjLTkzZjVhNWQ1ZDY1MVwvZDl5NnJ2cC0wOGI0MjM4Zi05NjE4LTQ0OTEtYjVlYi0wYzQ0MzE2YmQ4NTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eo7MtTF_JpW5otzSgjgOo-yNtPfUh_spqVrGR14R9Uc">
+<img align="center" alt="Coding" width="600" src="https://i.pinimg.com/originals/a6/10/8b/a6108b31b391378d30856edba57172a4.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
