@@ -6,9 +6,9 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer; &font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20Full-stack%20Developer%20With%Unlimited20%Energy; &font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=10&size=22" /></a>
 </p>
-<h3 align="center" style=" font-size: 1800px; color: #447ff7">A passionate Full-Stack developer with unlimited energy ⚡</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif">
 
