@@ -2,7 +2,7 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-<h1 align="center">Hi 👋 I'm Deep</h1>
+<h1 align="center" style=" font-size: medium; color: #447ff7">Hi 👋 I'm Deep</h1>
 <h3 align="center">A passionate Full-Stack developer with unlimited energy ⚡</h3>
 
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif">
