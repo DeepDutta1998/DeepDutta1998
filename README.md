@@ -12,11 +12,11 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on 👉 **countless MERN projects**
+- 🔭 I’m currently working on 👉 **countless MERN and AI projects **
 
 - 🌱 I’m currently learning 👉 **Full-Stack Development and Python**
 
-- 💬 Ask me about 👉 **Artificial intelligence**
+- 💬 Ask me about 👉 **Artificial intelligence and JavaScript**
 
 - 📫 How to reach me 👉 **deepinslg@gmail.com**
 
