@@ -1,6 +1,6 @@
 <p align="center">
     <img align="center" alt="Coding" width="1800"
-        src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/41cf7095746151.5e9ecde696490.gif">
+        src="https://asset.eyecannndy.com/media/clip/2024/01/26/261706258378.webp">
 
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
